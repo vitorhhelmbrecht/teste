@@ -1,0 +1,5 @@
+[      ] script.js e style.css, apenas.
+[      ] default.html e style.css, apenas.
+[  X   ] style.css, apenas.
+[      ] default.html e script.js, apenas.
+[      ] default.html, script.js e style.css.

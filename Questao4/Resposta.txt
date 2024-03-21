@@ -1,0 +1,5 @@
+SELECT assunto, ano, COUNT(assunto) AS quantidade 
+FROM atendimentos
+HAVING COUNT(assunto) > 3
+GROUP BY assunto, ano
+ORDER BY ano DESC, COUNT(assunto) DESC;
